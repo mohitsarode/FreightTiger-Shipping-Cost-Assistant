@@ -1,0 +1,166 @@
+{
+  "model_name": "gemini-1.5-flash / local-deterministic",
+  "total_calls": 19,
+  "total_input_tokens": 978,
+  "total_output_tokens": 705,
+  "total_tokens": 1683,
+  "estimated_cost_usd": 0.000285,
+  "published_pricing": {
+    "input_per_1m_tokens_usd": 0.075,
+    "output_per_1m_tokens_usd": 0.3
+  },
+  "call_history": [
+    {
+      "call_index": 1,
+      "call_type": "explanation_generation",
+      "input_tokens": 51,
+      "output_tokens": 38,
+      "cost_usd": 1.52e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 2,
+      "call_type": "explanation_generation",
+      "input_tokens": 51,
+      "output_tokens": 50,
+      "cost_usd": 1.88e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 3,
+      "call_type": "explanation_generation",
+      "input_tokens": 51,
+      "output_tokens": 50,
+      "cost_usd": 1.88e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 4,
+      "call_type": "explanation_generation",
+      "input_tokens": 53,
+      "output_tokens": 38,
+      "cost_usd": 1.54e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 5,
+      "call_type": "explanation_generation",
+      "input_tokens": 53,
+      "output_tokens": 38,
+      "cost_usd": 1.54e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 6,
+      "call_type": "explanation_generation",
+      "input_tokens": 51,
+      "output_tokens": 27,
+      "cost_usd": 1.19e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 7,
+      "call_type": "explanation_generation",
+      "input_tokens": 51,
+      "output_tokens": 27,
+      "cost_usd": 1.19e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 8,
+      "call_type": "explanation_generation",
+      "input_tokens": 51,
+      "output_tokens": 27,
+      "cost_usd": 1.19e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 9,
+      "call_type": "explanation_generation",
+      "input_tokens": 52,
+      "output_tokens": 52,
+      "cost_usd": 1.95e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 10,
+      "call_type": "explanation_generation",
+      "input_tokens": 52,
+      "output_tokens": 52,
+      "cost_usd": 1.95e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 11,
+      "call_type": "explanation_generation",
+      "input_tokens": 52,
+      "output_tokens": 48,
+      "cost_usd": 1.83e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 12,
+      "call_type": "explanation_generation",
+      "input_tokens": 52,
+      "output_tokens": 48,
+      "cost_usd": 1.83e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 13,
+      "call_type": "explanation_generation",
+      "input_tokens": 52,
+      "output_tokens": 48,
+      "cost_usd": 1.83e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 14,
+      "call_type": "explanation_generation",
+      "input_tokens": 51,
+      "output_tokens": 27,
+      "cost_usd": 1.19e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 15,
+      "call_type": "explanation_generation",
+      "input_tokens": 51,
+      "output_tokens": 27,
+      "cost_usd": 1.19e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 16,
+      "call_type": "explanation_generation",
+      "input_tokens": 51,
+      "output_tokens": 27,
+      "cost_usd": 1.19e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 17,
+      "call_type": "explanation_generation",
+      "input_tokens": 51,
+      "output_tokens": 27,
+      "cost_usd": 1.19e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 18,
+      "call_type": "explanation_generation",
+      "input_tokens": 51,
+      "output_tokens": 27,
+      "cost_usd": 1.19e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    },
+    {
+      "call_index": 19,
+      "call_type": "explanation_generation",
+      "input_tokens": 51,
+      "output_tokens": 27,
+      "cost_usd": 1.19e-05,
+      "model": "gemini-1.5-flash / local-deterministic"
+    }
+  ]
+}
